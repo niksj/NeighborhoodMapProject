@@ -3,8 +3,6 @@ Neighborhood Map: Udacity FrontEnd Project. This is a React single page applicat
 
 The application displays a map of Bangalore's famous tourist locations. On clicking any highlighted marker on the map the user gets more information about it which is fetched from [FourSquare API](https://developer.foursquare.com/).
 
-## How to run the project online
-
 ## Dependencies and Attributions
 - Google Maps API
 - FourSquare API
