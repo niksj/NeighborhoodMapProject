@@ -1,4 +1,13 @@
 {
-  "main.js": "static/js/main.f282e2a5.js",
-  "main.js.map": "static/js/main.f282e2a5.js.map"
+  "main.css": "/neighborhood-map/static/css/main.6479f72c.chunk.css",
+  "main.js": "/neighborhood-map/static/js/main.962c67a1.chunk.js",
+  "main.js.map": "/neighborhood-map/static/js/main.962c67a1.chunk.js.map",
+  "static/js/1.20bc491b.chunk.js": "/neighborhood-map/static/js/1.20bc491b.chunk.js",
+  "static/js/1.20bc491b.chunk.js.map": "/neighborhood-map/static/js/1.20bc491b.chunk.js.map",
+  "runtime~main.js": "/neighborhood-map/static/js/runtime~main.f1627007.js",
+  "runtime~main.js.map": "/neighborhood-map/static/js/runtime~main.f1627007.js.map",
+  "static/css/main.6479f72c.chunk.css.map": "/neighborhood-map/static/css/main.6479f72c.chunk.css.map",
+  "index.html": "/neighborhood-map/index.html",
+  "precache-manifest.09c5de4be711ac8a689451ae17d30b84.js": "/neighborhood-map/precache-manifest.09c5de4be711ac8a689451ae17d30b84.js",
+  "service-worker.js": "/neighborhood-map/service-worker.js"
 }
